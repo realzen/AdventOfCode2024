@@ -8,7 +8,7 @@ public class adventOfCodeDay1 {
 
     public static void main(String [] args){
         
-        String filePath = "input.txt"; // Replace with your file path
+        String filePath = "day1/input.txt"; // Replace with your file path
         System.out.println("File path:" + filePath);
         ArrayList<Integer> leftSide = new ArrayList<>();
         ArrayList<Integer> rightSide = new ArrayList<>();
